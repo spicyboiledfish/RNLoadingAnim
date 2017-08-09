@@ -1,7 +1,7 @@
 # RNLoadingAnim
 Loading Animations by React Native
 
-
+![record](https://github.com/swordrain/RNLoadingAnim/blob/master/recording.gif)
 
 
 
